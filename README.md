@@ -1,2 +1,2 @@
-#bharat123 web-project
+# web-project
 Team collaboration using GitHub
